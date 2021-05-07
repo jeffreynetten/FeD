@@ -7,14 +7,6 @@
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
-
-## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
-
-
-
 ## Je 'posts' (je code-dagboek)
 
 Je procesverslag is een soort dagboek.
@@ -38,3 +30,25 @@ Het idee bedenken voor de animatie die bij beide merken passen ging al vrij snel
 Een start maken aan het coderen omdat ik niet zo goed weet hoe en waar ik moet beginnen. Als ik de opdrachten maak lukt het vaak wel. Maar als ik zelf de opzet moet maken gaat het vaak tot veel mis.
 - Wat je plannen zijn:
 Beginnen aan de code voor de eerste animatie en daarna aan de 2e animatie.
+
+
+
+
+
+- Na het gesprek die ik heb gehad met Sanne op school kon ik verder gaan met mijn animaties. Ik liep vast op meerdere vlakken maar die zijn nu uitgelegd en begrijp ik.
+Een paar dingen waar ik bij vastliep waren:
+1. De box rondom de Supreme text viel naarachter in plaats van naarvoren.
+2. De letters van de GOLF tekst verandere per letter van kleur in plaats van allemaal tegelijk.
+
+Wat zijn mijn plannen verder?
+- De GOLF tekst kleuren bijwerken. Ze kunnen op dit moment maar naar 1 kleur veranderen maar dit moeten er meerdere worden.
+- De Supreme BOX logo moet meer gaan lijken op het Supreme logo zelf. Het is nu nog een tekst in een rood vlak. Het lijkt nog niet op het logo.
+
+
+
+07/05/2021
+De letters van het GOLF logo aanpassen is gelukt. Ik kom alleen nu achter het probleem aan dat de 3D niet veranderd. Ik heb daarom Sam zijn hulp gevraagd en probeer vanuit dat verder te gaan. 
+
+Het Supreme logo is nu volledig aangepast en lijkt op het Supreme logo. Ik loop alleen wel achter het probleem aan hoe de dropshadow gedaan moet worden. 
+Hier zal ik later verder achteraan gaan. Op dit moment focus ik mezelf op het GOLF logo.
+
