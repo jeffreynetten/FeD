@@ -46,9 +46,12 @@ Wat zijn mijn plannen verder?
 
 
 
-07/05/2021
+06/05/2021
 De letters van het GOLF logo aanpassen is gelukt. Ik kom alleen nu achter het probleem aan dat de 3D niet veranderd. Ik heb daarom Sam zijn hulp gevraagd en probeer vanuit dat verder te gaan. 
 
 Het Supreme logo is nu volledig aangepast en lijkt op het Supreme logo. Ik loop alleen wel achter het probleem aan hoe de dropshadow gedaan moet worden. 
 Hier zal ik later verder achteraan gaan. Op dit moment focus ik mezelf op het GOLF logo.
 
+
+07/05/2021 UPDATE:
+De GOLF letters en 3D veranderd nu constant. De kleuren worden geloopt en zo heeft het logo dus altijd een andere kleur. Ook heb ik het lettertype aangepast waardoor het meer op het GOLF LE FLEUR logo lijkt. Deze animatie is wat mij betreft nu voldaan en afgerond. Ik moet nu verder gaan met het SUPREME logo. Wat nog een aardige taak kan worden. Ik ga daarom Sam nog een vraag stellen over hoe ik de box shadow toevoeg van het Supreme BOX logo.
