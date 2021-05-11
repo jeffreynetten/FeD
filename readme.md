@@ -19,6 +19,9 @@ In zo’n ‘post’ neem je op:
 - Wat er lastig is
 - Wat je plannen zijn
 
+
+BRONNEN: CODEPEN EN LESSEN
+
 **POSTS:**
 - Wat ik van plan was:
 Zover mogelijk komen met mijn idee. Daarbij behoort: 2 verschillende animaties bedenken. Daarnaast wilde ik beter leren coderen en de oefeningen maken.
