@@ -1,7 +1,7 @@
 # Procesverslag
 **Auteur:** Jeffrey
 
-**Het werk:** [opdracht 1](opdracht1/index.html) en [opdracht 2](opdracht2/index.html)
+**Het werk:** [opdracht 1](opdracht1/opdracht1.1/index.html) en [opdracht 1](opdracht1/opdracht1.2/index.html) en [opdracht 2](opdracht2/index.html)
 
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
